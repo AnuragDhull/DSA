@@ -52,5 +52,8 @@ public class arrays_prefixSum {
         printArray(pref);
 
 
+        sc.close(); 
+
+
     }
 }
